@@ -1,0 +1,1627 @@
+{
+  "features": [
+    [
+      {
+        "geometry": {
+          "coordinates": [
+            121.584968515433,
+            25.0785331094151
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 5,
+          "line": "1",
+          "name": "Wende"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.56721245778,
+            25.0821614178855
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 7,
+          "line": "1",
+          "name": "Xihu"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.611737232054,
+            25.0675779561287
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 9,
+          "line": "1",
+          "name": "Donghu"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.579325076292,
+            24.9982774884112
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 13,
+          "line": "1",
+          "name": "Taipei zoo"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.575283118434,
+            25.0799950068252
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 14,
+          "line": "1",
+          "name": "Gangqian"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.558028561335,
+            24.9995044551699
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 16,
+          "line": "1",
+          "name": "Wanfang hospital"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.55560715359,
+            25.0848984596194
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 18,
+          "line": "1",
+          "name": "Jiannan road"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.52619154204,
+            25.0934739828157
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 20,
+          "line": "2",
+          "name": "Shilin"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.563490094539,
+            25.0329794822926
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 22,
+          "line": "2",
+          "name": "Taipei 101 / taipei world trade center"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.515642284871,
+            25.114420308475
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 23,
+          "line": "2",
+          "name": "Shipai"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.501082982432,
+            25.1255848586531
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 25,
+          "line": "2",
+          "name": "Qiyan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.518820409164,
+            25.1097939390382
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 27,
+          "line": "2",
+          "name": "Mingde"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.553232530757,
+            25.0331500456843
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 29,
+          "line": "2",
+          "name": "Xinyi anhe"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.506264810467,
+            25.1208579487786
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 31,
+          "line": "2",
+          "name": "Qilian"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.445258308189,
+            25.1679932864932
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 32,
+          "line": "2",
+          "name": "Tamsui"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.570666336912,
+            25.0327933274782
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 34,
+          "line": "2",
+          "name": "Xiangshan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.524969141644,
+            25.0842364206164
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 37,
+          "line": "2",
+          "name": "Jiantan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.520709993016,
+            25.0576468633863
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 38,
+          "line": "2",
+          "name": "Shuanglian"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.467199724937,
+            25.1257847162953
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 39,
+          "line": "2",
+          "name": "Guandu"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.541366034604,
+            24.9829138365245
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 41,
+          "line": "3",
+          "name": "Dapinglin"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.534347031886,
+            25.0147074855073
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 43,
+          "line": "3",
+          "name": "Gongguan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.552003155288,
+            25.0516472453277
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 45,
+          "line": "3",
+          "name": "Taipei arena"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.577733392377,
+            25.0500017096265
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 47,
+          "line": "3",
+          "name": "Songshan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.540920992125,
+            24.9931783597261
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 49,
+          "line": "3",
+          "name": "Jingmei"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.541298655934,
+            24.9673944339329
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 50,
+          "line": "3",
+          "name": "Xindian district office"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.539002269542,
+            25.0019653283303
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 52,
+          "line": "3",
+          "name": "Wanlong"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.473240934344,
+            25.0856703928374
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 54,
+          "line": "4",
+          "name": "Sanmin senior high school"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.483946555372,
+            25.0555995022047
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 56,
+          "line": "4",
+          "name": "Sanchong"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.527664472284,
+            25.0626510027389
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 58,
+          "line": "4",
+          "name": "Zhongshan elementary school"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.42269907252,
+            25.0289210947113
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 59,
+          "line": "4",
+          "name": "Danfeng"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.511125386971,
+            25.0025558826665
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 61,
+          "line": "4",
+          "name": "Yongan market"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.533156373816,
+            25.057966038092
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 63,
+          "line": "4",
+          "name": "Xingtian temple"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.50917264646,
+            24.9904085346492
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 64,
+          "line": "4",
+          "name": "Nanshijiao"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.412662793257,
+            25.0225171601935
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 66,
+          "line": "4",
+          "name": "Huilong"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.505090778183,
+            24.9939220348881
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 68,
+          "line": "4",
+          "name": "Jingan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.491138318246,
+            25.0596483378624
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 69,
+          "line": "4",
+          "name": "Cailiao"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.435812419817,
+            25.0327687332127
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 71,
+          "line": "4",
+          "name": "Fu jen university"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.46435733713,
+            25.0915636727487
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 73,
+          "line": "4",
+          "name": "Luzhou"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.444451578132,
+            24.9732260229499
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 75,
+          "line": "5",
+          "name": "Tucheng"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.575872858648,
+            25.0408636198186
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 77,
+          "line": "5",
+          "name": "Yongchun"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.4722367606,
+            25.029904945923
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 79,
+          "line": "5",
+          "name": "Jiangzicui"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.459218919773,
+            25.0089348480764
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 81,
+          "line": "5",
+          "name": "Fuzhong"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.549655956281,
+            25.0414948040831
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 82,
+          "line": "5",
+          "name": "Zhongxiao dunhua"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.462881789857,
+            25.0142971275179
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 84,
+          "line": "5",
+          "name": "Banqiao"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.582004076983,
+            25.044278556768
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 86,
+          "line": "5",
+          "name": "Houshanpi"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.557688949268,
+            25.0413474705924
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 88,
+          "line": "5",
+          "name": "Sun yat-sen memorial hall"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.523340188583,
+            25.0448130121588
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 90,
+          "line": "5",
+          "name": "Shandao temple"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.544216438631,
+            25.0608061158458
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 2,
+          "line": "1",
+          "name": "Zhongshan junior high school"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.594205870195,
+            25.0835055681674
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 3,
+          "line": "1",
+          "name": "Neihu"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.502531171386,
+            25.136936405057
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 93,
+          "line": "6",
+          "name": "Xinbeitou"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.544039335904,
+            25.0522922825735
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 95,
+          "line": "13",
+          "name": "Nanjing fuxing"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.617622492779,
+            25.0545656823196
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 97,
+          "line": "15",
+          "name": "Taipei nangang exhibition center"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.517049319553,
+            25.0342742733315
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 99,
+          "line": "23",
+          "name": "Chiang kai-shek memorial hall"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.528321773159,
+            25.0339276213061
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 101,
+          "line": "24",
+          "name": "Dongmen"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.517438024646,
+            25.0462330865815
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 102,
+          "line": "25",
+          "name": "Taipei main station"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.522567940845,
+            25.0268856379963
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 104,
+          "line": "34",
+          "name": "Guting"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.508487733599,
+            25.0422126002266
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 106,
+          "line": "35",
+          "name": "Ximen"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.548148559835,
+            25.0804773373073
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 0,
+          "line": "1",
+          "name": "Dazhi"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.501220861891,
+            25.0352291336413
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 92,
+          "line": "5",
+          "name": "Longshan temple"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.602312907047,
+            25.0838086695366
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 1,
+          "line": "1",
+          "name": "Dahu park"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.553057973181,
+            25.0238448788691
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 4,
+          "line": "1",
+          "name": "Liuzhangli"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.573175981862,
+            24.9982533556593
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 6,
+          "line": "1",
+          "name": "Muzha"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.557010243553,
+            25.0053835659802
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 8,
+          "line": "1",
+          "name": "Xinhai"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.551635110466,
+            25.0631044651714
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 10,
+          "line": "1",
+          "name": "Songshan airport"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.543451471946,
+            25.0259919796134
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 12,
+          "line": "1",
+          "name": "Technology building"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.568066678679,
+            24.9986077166311
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 15,
+          "line": "1",
+          "name": "Wanfang community"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.60724154577,
+            25.0726892743642
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 17,
+          "line": "1",
+          "name": "Huzhou"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.558827032038,
+            25.018523233869
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 19,
+          "line": "1",
+          "name": "Linguang"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.535308028432,
+            25.0335352542108
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 21,
+          "line": "2",
+          "name": "Daan park"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.459456451811,
+            25.1369490363692
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 24,
+          "line": "2",
+          "name": "Zhuwei"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.473122240971,
+            25.1307508883733
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 26,
+          "line": "2",
+          "name": "Zhongyi"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.522542284583,
+            25.1028110303791
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 28,
+          "line": "2",
+          "name": "Zhishan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.458954512046,
+            25.1541141606949
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 30,
+          "line": "2",
+          "name": "Hongshulin"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.485208135352,
+            25.1374468150107
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 33,
+          "line": "2",
+          "name": "Fuxinggang"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.520131784781,
+            25.0713802252389
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 35,
+          "line": "2",
+          "name": "Yuanshan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.516220077325,
+            25.0418270322944
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 36,
+          "line": "2",
+          "name": "National taiwan university hospital"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.498591159863,
+            25.1319070519326
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 40,
+          "line": "2",
+          "name": "Beitou"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.510781764249,
+            25.035672781829
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 42,
+          "line": "3",
+          "name": "Xiaonanmen"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.510278645912,
+            25.0492942407649
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 44,
+          "line": "3",
+          "name": "Beimen"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.528187325801,
+            25.0206926845829
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 46,
+          "line": "3",
+          "name": "Taipower building"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.564396882841,
+            25.0514363240533
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 48,
+          "line": "3",
+          "name": "Nanjing sanmin"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.537610041052,
+            24.9578716508934
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 51,
+          "line": "3",
+          "name": "Xindian"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.542910905766,
+            24.9750829290241
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 53,
+          "line": "3",
+          "name": "Qizhang"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.497440896474,
+            25.0699351507846
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 57,
+          "line": "4",
+          "name": "Sanchong elementary school"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.499867980262,
+            25.0629436529392
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 60,
+          "line": "4",
+          "name": "Taipei bridge"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.472122793617,
+            25.0465268740488
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 62,
+          "line": "4",
+          "name": "Xianse temple"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.479616095319,
+            25.0807417898244
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 65,
+          "line": "4",
+          "name": "Saint ignatius high school"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.515449880247,
+            25.0136186488183
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 67,
+          "line": "4",
+          "name": "Dingxi"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.452317896757,
+            25.0361479118426
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 70,
+          "line": "4",
+          "name": "Xinzhuang"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.461624559153,
+            25.0396073342219
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 72,
+          "line": "4",
+          "name": "Touqianzhuang"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.512848779451,
+            25.0629223875474
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 74,
+          "line": "4",
+          "name": "Daqiaotou"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.565259454057,
+            25.0411788942298
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 76,
+          "line": "5",
+          "name": "Taipei city hall"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.436827296367,
+            24.9672208270486
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 78,
+          "line": "5",
+          "name": "Yongning"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.452648875983,
+            24.9985890305285
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 80,
+          "line": "5",
+          "name": "Far eastern hospital"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.593020112387,
+            25.0501886597615
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 83,
+          "line": "5",
+          "name": "Kunyang"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.607634208348,
+            25.0521783814633
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 85,
+          "line": "5",
+          "name": "Nangang"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.448875286153,
+            24.985548279219
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 87,
+          "line": "5",
+          "name": "Haishan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.41888150335,
+            24.9594326964323
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 89,
+          "line": "5",
+          "name": "Dingpu station"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.467987028283,
+            25.0229959515821
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 91,
+          "line": "5",
+          "name": "Xinpu"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.615954181595,
+            25.0598989970393
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 11,
+          "line": "1",
+          "name": "Nangang software park"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.48634726047,
+            25.0768077944311
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 55,
+          "line": "4",
+          "name": "Sanhe junior high school"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.543626108365,
+            25.0328205762113
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 94,
+          "line": "12",
+          "name": "Daan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.543793999161,
+            25.0416021655718
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 96,
+          "line": "15",
+          "name": "Zhongxiao fuxing"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.520396899948,
+            25.0526756678897
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 98,
+          "line": "23",
+          "name": "Zhongshan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.51936274028,
+            25.0628766685069
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 100,
+          "line": "24",
+          "name": "Minquan west road"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.535297842545,
+            24.9695542084787
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 103,
+          "line": "31",
+          "name": "Xiaobitan"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.533070364754,
+            25.0524094820517
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 105,
+          "line": "34",
+          "name": "Songjiang nanjing"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            121.532918758413,
+            25.0423548442315
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "id": 107,
+          "line": "45",
+          "name": "Zhongxiao xinsheng"
+        },
+        "type": "Feature"
+      }
+    ]
+  ],
+  "type": "FeatureCollection"
+}

@@ -3,6 +3,8 @@ import L from 'leaflet';
 
 import 'leaflet/dist/leaflet.css';
 
+import geojson from 'json!./mrt_station.geojson';
+
 let config = {};
 config.params = {
 	center: [25.0408578889, 121.567904444],
