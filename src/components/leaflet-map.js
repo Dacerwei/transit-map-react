@@ -37,15 +37,19 @@ export default class LeafletMap extends React.Component {
 
 		this._mapNode = null;
 	}
-
+ 
 	componentDidMount() {
+		//componentDidMount() is invoked immediately after a component is mounted. 
+		//Initialization that requires DOM nodes should go here. 
+		//If you need to load data from a remote endpoint, this is a good place to instantiate the network request. 
+		//Setting state in this method will trigger a re-rendering.
 		if (!this.state.map) this.init(this._mapNode);
 	}
 
 	init(id) {
 		if(this.state.map) return;
 
-		let map = L.map(id,config.params);
+		let map = L.map(id, config.params);
 
 		L.control.zoom({ position: "bottomleft"}).addTo(map);
 		L.control.scale({ position: "bottomleft"}).addTo(map);
