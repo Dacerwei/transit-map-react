@@ -6,4 +6,42 @@
 	height: 600px;
 	width: 80%;
 	margin: 0 auto;
+	z-index: 10;
+}
+#mapUI {
+  width: 80%;
+  height: inherit;
+  margin: 0 auto;
+  background-color: #000;
+}
+
+.filterMRTLines {
+  position: absolute;
+  top: 10px;
+  z-index: 50;
+  width: 200px;
+  height: auto;
+  background: hsla(0,100%,100%,0.8);
+  margin: 10px;
+  font-family: sans-serif;
+  font-size: 13px;
+  padding: 5px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+.filterMRTLines hr {
+  border: 1px solid #000;
+  margin: 5px;
+}
+.filterMRTLines h3 {
+  margin-top: 0;
+  padding-left: 5px;
+}
+.filterMRTLines p {
+  padding-left: 5px;
+}
+.filterMRTLines select {
+  display: block;
+  margin: 0 auto;
 }

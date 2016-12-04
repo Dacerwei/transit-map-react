@@ -1,0 +1,1406 @@
+[
+  {
+    "fields": {
+      "name_cn": "大直站",
+      "lat": "121.5481485598349",
+      "ID": "0",
+      "lng": "25.0804773373073",
+      "transfer": "False",
+      "name_en": "Dazhi",
+      "line": "1"
+    },
+    "pk": "0",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "大湖公園站",
+      "lat": "121.60231290704705",
+      "ID": "1",
+      "lng": "25.08380866953657",
+      "transfer": "False",
+      "name_en": "Dahu park",
+      "line": "1"
+    },
+    "pk": "1",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "中山國中站",
+      "lat": "121.54421643863063",
+      "ID": "2",
+      "lng": "25.060806115845825",
+      "transfer": "False",
+      "name_en": "Zhongshan junior high school",
+      "line": "1"
+    },
+    "pk": "2",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "內湖站",
+      "lat": "121.59420587019488",
+      "ID": "3",
+      "lng": "25.083505568167364",
+      "transfer": "False",
+      "name_en": "Neihu",
+      "line": "1"
+    },
+    "pk": "3",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "六張犁站",
+      "lat": "121.55305797318113",
+      "ID": "4",
+      "lng": "25.023844878869117",
+      "transfer": "False",
+      "name_en": "Liuzhangli",
+      "line": "1"
+    },
+    "pk": "4",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "文德站",
+      "lat": "121.58496851543255",
+      "ID": "5",
+      "lng": "25.078533109415087",
+      "transfer": "False",
+      "name_en": "Wende",
+      "line": "1"
+    },
+    "pk": "5",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "木柵站",
+      "lat": "121.57317598186164",
+      "ID": "6",
+      "lng": "24.998253355659266",
+      "transfer": "False",
+      "name_en": "Muzha",
+      "line": "1"
+    },
+    "pk": "6",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "西湖站",
+      "lat": "121.56721245777965",
+      "ID": "7",
+      "lng": "25.082161417885487",
+      "transfer": "False",
+      "name_en": "Xihu",
+      "line": "1"
+    },
+    "pk": "7",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "辛亥站",
+      "lat": "121.55701024355326",
+      "ID": "8",
+      "lng": "25.005383565980207",
+      "transfer": "False",
+      "name_en": "Xinhai",
+      "line": "1"
+    },
+    "pk": "8",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "東湖站",
+      "lat": "121.61173723205387",
+      "ID": "9",
+      "lng": "25.067577956128737",
+      "transfer": "False",
+      "name_en": "Donghu",
+      "line": "1"
+    },
+    "pk": "9",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "松山機場站",
+      "lat": "121.55163511046565",
+      "ID": "10",
+      "lng": "25.063104465171428",
+      "transfer": "False",
+      "name_en": "Songshan airport",
+      "line": "1"
+    },
+    "pk": "10",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "南港軟體園區站",
+      "lat": "121.61595418159534",
+      "ID": "11",
+      "lng": "25.059898997039298",
+      "transfer": "False",
+      "name_en": "Nangang software park",
+      "line": "1"
+    },
+    "pk": "11",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "科技大樓站",
+      "lat": "121.54345147194567",
+      "ID": "12",
+      "lng": "25.02599197961337",
+      "transfer": "False",
+      "name_en": "Technology building",
+      "line": "1"
+    },
+    "pk": "12",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "動物園站",
+      "lat": "121.57932507629165",
+      "ID": "13",
+      "lng": "24.99827748841116",
+      "transfer": "False",
+      "name_en": "Taipei zoo",
+      "line": "1"
+    },
+    "pk": "13",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "港墘站",
+      "lat": "121.5752831184338",
+      "ID": "14",
+      "lng": "25.07999500682522",
+      "transfer": "False",
+      "name_en": "Gangqian",
+      "line": "1"
+    },
+    "pk": "14",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "萬芳社區站",
+      "lat": "121.5680666786789",
+      "ID": "15",
+      "lng": "24.998607716631074",
+      "transfer": "False",
+      "name_en": "Wanfang community",
+      "line": "1"
+    },
+    "pk": "15",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "萬芳醫院站",
+      "lat": "121.55802856133481",
+      "ID": "16",
+      "lng": "24.999504455169877",
+      "transfer": "False",
+      "name_en": "Wanfang hospital",
+      "line": "1"
+    },
+    "pk": "16",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "葫洲站",
+      "lat": "121.6072415457699",
+      "ID": "17",
+      "lng": "25.072689274364222",
+      "transfer": "False",
+      "name_en": "Huzhou",
+      "line": "1"
+    },
+    "pk": "17",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "劍南路站",
+      "lat": "121.5556071535898",
+      "ID": "18",
+      "lng": "25.084898459619428",
+      "transfer": "False",
+      "name_en": "Jiannan road",
+      "line": "1"
+    },
+    "pk": "18",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "麟光站",
+      "lat": "121.55882703203774",
+      "ID": "19",
+      "lng": "25.018523233868976",
+      "transfer": "False",
+      "name_en": "Linguang",
+      "line": "1"
+    },
+    "pk": "19",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "士林站",
+      "lat": "121.5261915420397",
+      "ID": "20",
+      "lng": "25.093473982815723",
+      "transfer": "False",
+      "name_en": "Shilin",
+      "line": "2"
+    },
+    "pk": "20",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "大安森林公園站",
+      "lat": "121.53530802843169",
+      "ID": "21",
+      "lng": "25.033535254210847",
+      "transfer": "False",
+      "name_en": "Daan park",
+      "line": "2"
+    },
+    "pk": "21",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "台北101/世貿站",
+      "lat": "121.56349009453915",
+      "ID": "22",
+      "lng": "25.03297948229257",
+      "transfer": "False",
+      "name_en": "Taipei 101 / taipei world trade center",
+      "line": "2"
+    },
+    "pk": "22",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "石牌站",
+      "lat": "121.51564228487057",
+      "ID": "23",
+      "lng": "25.114420308474973",
+      "transfer": "False",
+      "name_en": "Shipai",
+      "line": "2"
+    },
+    "pk": "23",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "竹圍站",
+      "lat": "121.45945645181106",
+      "ID": "24",
+      "lng": "25.136949036369213",
+      "transfer": "False",
+      "name_en": "Zhuwei",
+      "line": "2"
+    },
+    "pk": "24",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "奇岩站",
+      "lat": "121.50108298243171",
+      "ID": "25",
+      "lng": "25.125584858653117",
+      "transfer": "False",
+      "name_en": "Qiyan",
+      "line": "2"
+    },
+    "pk": "25",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "忠義站",
+      "lat": "121.47312224097061",
+      "ID": "26",
+      "lng": "25.13075088837334",
+      "transfer": "False",
+      "name_en": "Zhongyi",
+      "line": "2"
+    },
+    "pk": "26",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "明德站",
+      "lat": "121.51882040916408",
+      "ID": "27",
+      "lng": "25.1097939390382",
+      "transfer": "False",
+      "name_en": "Mingde",
+      "line": "2"
+    },
+    "pk": "27",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "芝山站",
+      "lat": "121.52254228458344",
+      "ID": "28",
+      "lng": "25.10281103037906",
+      "transfer": "False",
+      "name_en": "Zhishan",
+      "line": "2"
+    },
+    "pk": "28",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "信義安和站",
+      "lat": "121.55323253075703",
+      "ID": "29",
+      "lng": "25.0331500456843",
+      "transfer": "False",
+      "name_en": "Xinyi anhe",
+      "line": "2"
+    },
+    "pk": "29",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "紅樹林站",
+      "lat": "121.45895451204645",
+      "ID": "30",
+      "lng": "25.154114160694864",
+      "transfer": "False",
+      "name_en": "Hongshulin",
+      "line": "2"
+    },
+    "pk": "30",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "唭哩岸站",
+      "lat": "121.50626481046682",
+      "ID": "31",
+      "lng": "25.120857948778582",
+      "transfer": "False",
+      "name_en": "Qilian",
+      "line": "2"
+    },
+    "pk": "31",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "淡水站",
+      "lat": "121.44525830818868",
+      "ID": "32",
+      "lng": "25.16799328649323",
+      "transfer": "False",
+      "name_en": "Tamsui",
+      "line": "2"
+    },
+    "pk": "32",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "復興崗站",
+      "lat": "121.48520813535195",
+      "ID": "33",
+      "lng": "25.13744681501074",
+      "transfer": "False",
+      "name_en": "Fuxinggang",
+      "line": "2"
+    },
+    "pk": "33",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "象山站",
+      "lat": "121.57066633691207",
+      "ID": "34",
+      "lng": "25.03279332747816",
+      "transfer": "False",
+      "name_en": "Xiangshan",
+      "line": "2"
+    },
+    "pk": "34",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "圓山站",
+      "lat": "121.52013178478083",
+      "ID": "35",
+      "lng": "25.07138022523891",
+      "transfer": "False",
+      "name_en": "Yuanshan",
+      "line": "2"
+    },
+    "pk": "35",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "臺大醫院站",
+      "lat": "121.51622007732456",
+      "ID": "36",
+      "lng": "25.04182703229438",
+      "transfer": "False",
+      "name_en": "National taiwan university hospital",
+      "line": "2"
+    },
+    "pk": "36",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "劍潭站",
+      "lat": "121.52496914164354",
+      "ID": "37",
+      "lng": "25.084236420616357",
+      "transfer": "False",
+      "name_en": "Jiantan",
+      "line": "2"
+    },
+    "pk": "37",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "雙連站",
+      "lat": "121.52070999301645",
+      "ID": "38",
+      "lng": "25.057646863386257",
+      "transfer": "False",
+      "name_en": "Shuanglian",
+      "line": "2"
+    },
+    "pk": "38",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "關渡站",
+      "lat": "121.46719972493743",
+      "ID": "39",
+      "lng": "25.125784716295318",
+      "transfer": "False",
+      "name_en": "Guandu",
+      "line": "2"
+    },
+    "pk": "39",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "北投站",
+      "lat": "121.49859115986274",
+      "ID": "40",
+      "lng": "25.131907051932647",
+      "transfer": "True",
+      "name_en": "Beitou",
+      "line": "2"
+    },
+    "pk": "40",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "大坪林站",
+      "lat": "121.54136603460408",
+      "ID": "41",
+      "lng": "24.98291383652455",
+      "transfer": "False",
+      "name_en": "Dapinglin",
+      "line": "3"
+    },
+    "pk": "41",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "小南門站",
+      "lat": "121.51078176424929",
+      "ID": "42",
+      "lng": "25.03567278182896",
+      "transfer": "False",
+      "name_en": "Xiaonanmen",
+      "line": "3"
+    },
+    "pk": "42",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "公館站",
+      "lat": "121.53434703188583",
+      "ID": "43",
+      "lng": "25.014707485507266",
+      "transfer": "False",
+      "name_en": "Gongguan",
+      "line": "3"
+    },
+    "pk": "43",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "北門站",
+      "lat": "121.51027864591158",
+      "ID": "44",
+      "lng": "25.049294240764926",
+      "transfer": "False",
+      "name_en": "Beimen",
+      "line": "3"
+    },
+    "pk": "44",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "台北小巨蛋站",
+      "lat": "121.55200315528789",
+      "ID": "45",
+      "lng": "25.051647245327715",
+      "transfer": "False",
+      "name_en": "Taipei arena",
+      "line": "3"
+    },
+    "pk": "45",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "台電大樓站",
+      "lat": "121.52818732580099",
+      "ID": "46",
+      "lng": "25.020692684582926",
+      "transfer": "False",
+      "name_en": "Taipower building",
+      "line": "3"
+    },
+    "pk": "46",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "松山站",
+      "lat": "121.5777333923768",
+      "ID": "47",
+      "lng": "25.050001709626468",
+      "transfer": "False",
+      "name_en": "Songshan",
+      "line": "3"
+    },
+    "pk": "47",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "南京三民站",
+      "lat": "121.56439688284074",
+      "ID": "48",
+      "lng": "25.05143632405333",
+      "transfer": "False",
+      "name_en": "Nanjing sanmin",
+      "line": "3"
+    },
+    "pk": "48",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "景美站",
+      "lat": "121.54092099212548",
+      "ID": "49",
+      "lng": "24.993178359726084",
+      "transfer": "False",
+      "name_en": "Jingmei",
+      "line": "3"
+    },
+    "pk": "49",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "新店市公所",
+      "lat": "121.54129865593448",
+      "ID": "50",
+      "lng": "24.96739443393293",
+      "transfer": "False",
+      "name_en": "Xindian district office",
+      "line": "3"
+    },
+    "pk": "50",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "新店站",
+      "lat": "121.53761004105215",
+      "ID": "51",
+      "lng": "24.957871650893413",
+      "transfer": "False",
+      "name_en": "Xindian",
+      "line": "3"
+    },
+    "pk": "51",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "萬隆站",
+      "lat": "121.53900226954201",
+      "ID": "52",
+      "lng": "25.00196532833034",
+      "transfer": "False",
+      "name_en": "Wanlong",
+      "line": "3"
+    },
+    "pk": "52",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "七張站",
+      "lat": "121.54291090576625",
+      "ID": "53",
+      "lng": "24.975082929024087",
+      "transfer": "True",
+      "name_en": "Qizhang",
+      "line": "3"
+    },
+    "pk": "53",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "三民高中站",
+      "lat": "121.47324093434433",
+      "ID": "54",
+      "lng": "25.08567039283739",
+      "transfer": "False",
+      "name_en": "Sanmin senior high school",
+      "line": "4"
+    },
+    "pk": "54",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "三和國中站",
+      "lat": "121.48634726047028",
+      "ID": "55",
+      "lng": "25.076807794431062",
+      "transfer": "False",
+      "name_en": "Sanhe junior high school",
+      "line": "4"
+    },
+    "pk": "55",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "三重站",
+      "lat": "121.48394655537177",
+      "ID": "56",
+      "lng": "25.055599502204725",
+      "transfer": "False",
+      "name_en": "Sanchong",
+      "line": "4"
+    },
+    "pk": "56",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "三重國小站",
+      "lat": "121.49744089647427",
+      "ID": "57",
+      "lng": "25.069935150784648",
+      "transfer": "False",
+      "name_en": "Sanchong elementary school",
+      "line": "4"
+    },
+    "pk": "57",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "中山國小站",
+      "lat": "121.5276644722845",
+      "ID": "58",
+      "lng": "25.062651002738857",
+      "transfer": "False",
+      "name_en": "Zhongshan elementary school",
+      "line": "4"
+    },
+    "pk": "58",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "丹鳳站",
+      "lat": "121.42269907252033",
+      "ID": "59",
+      "lng": "25.028921094711308",
+      "transfer": "False",
+      "name_en": "Danfeng",
+      "line": "4"
+    },
+    "pk": "59",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "台北橋站",
+      "lat": "121.49986798026151",
+      "ID": "60",
+      "lng": "25.062943652939236",
+      "transfer": "False",
+      "name_en": "Taipei bridge",
+      "line": "4"
+    },
+    "pk": "60",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "永安市場站",
+      "lat": "121.51112538697076",
+      "ID": "61",
+      "lng": "25.00255588266653",
+      "transfer": "False",
+      "name_en": "Yongan market",
+      "line": "4"
+    },
+    "pk": "61",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "先嗇宮站",
+      "lat": "121.47212279361716",
+      "ID": "62",
+      "lng": "25.046526874048844",
+      "transfer": "False",
+      "name_en": "Xianse temple",
+      "line": "4"
+    },
+    "pk": "62",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "行天宮站",
+      "lat": "121.53315637381571",
+      "ID": "63",
+      "lng": "25.057966038092015",
+      "transfer": "False",
+      "name_en": "Xingtian temple",
+      "line": "4"
+    },
+    "pk": "63",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "南勢角站",
+      "lat": "121.50917264645967",
+      "ID": "64",
+      "lng": "24.990408534649212",
+      "transfer": "False",
+      "name_en": "Nanshijiao",
+      "line": "4"
+    },
+    "pk": "64",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "徐匯中學站",
+      "lat": "121.47961609531869",
+      "ID": "65",
+      "lng": "25.080741789824394",
+      "transfer": "False",
+      "name_en": "Saint ignatius high school",
+      "line": "4"
+    },
+    "pk": "65",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "迴龍站",
+      "lat": "121.41266279325687",
+      "ID": "66",
+      "lng": "25.02251716019349",
+      "transfer": "False",
+      "name_en": "Huilong",
+      "line": "4"
+    },
+    "pk": "66",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "頂溪站",
+      "lat": "121.51544988024723",
+      "ID": "67",
+      "lng": "25.013618648818284",
+      "transfer": "False",
+      "name_en": "Dingxi",
+      "line": "4"
+    },
+    "pk": "67",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "景安站",
+      "lat": "121.50509077818306",
+      "ID": "68",
+      "lng": "24.993922034888126",
+      "transfer": "False",
+      "name_en": "Jingan",
+      "line": "4"
+    },
+    "pk": "68",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "菜寮站",
+      "lat": "121.49113831824604",
+      "ID": "69",
+      "lng": "25.059648337862438",
+      "transfer": "False",
+      "name_en": "Cailiao",
+      "line": "4"
+    },
+    "pk": "69",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "新莊站",
+      "lat": "121.45231789675674",
+      "ID": "70",
+      "lng": "25.036147911842566",
+      "transfer": "False",
+      "name_en": "Xinzhuang",
+      "line": "4"
+    },
+    "pk": "70",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "輔大站",
+      "lat": "121.43581241981651",
+      "ID": "71",
+      "lng": "25.032768733212702",
+      "transfer": "False",
+      "name_en": "Fu jen university",
+      "line": "4"
+    },
+    "pk": "71",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "頭前庄站",
+      "lat": "121.46162455915322",
+      "ID": "72",
+      "lng": "25.039607334221916",
+      "transfer": "False",
+      "name_en": "Touqianzhuang",
+      "line": "4"
+    },
+    "pk": "72",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "蘆洲站",
+      "lat": "121.46435733713042",
+      "ID": "73",
+      "lng": "25.09156367274872",
+      "transfer": "False",
+      "name_en": "Luzhou",
+      "line": "4"
+    },
+    "pk": "73",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "大橋頭站",
+      "lat": "121.51284877945089",
+      "ID": "74",
+      "lng": "25.062922387547424",
+      "transfer": "True",
+      "name_en": "Daqiaotou",
+      "line": "4"
+    },
+    "pk": "74",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "土城站",
+      "lat": "121.44445157813205",
+      "ID": "75",
+      "lng": "24.973226022949873",
+      "transfer": "False",
+      "name_en": "Tucheng",
+      "line": "5"
+    },
+    "pk": "75",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "市政府站",
+      "lat": "121.5652594540568",
+      "ID": "76",
+      "lng": "25.0411788942298",
+      "transfer": "False",
+      "name_en": "Taipei city hall",
+      "line": "5"
+    },
+    "pk": "76",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "永春站",
+      "lat": "121.57587285864766",
+      "ID": "77",
+      "lng": "25.040863619818552",
+      "transfer": "False",
+      "name_en": "Yongchun",
+      "line": "5"
+    },
+    "pk": "77",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "永寧站",
+      "lat": "121.43682729636696",
+      "ID": "78",
+      "lng": "24.96722082704861",
+      "transfer": "False",
+      "name_en": "Yongning",
+      "line": "5"
+    },
+    "pk": "78",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "江子翠站",
+      "lat": "121.47223676060035",
+      "ID": "79",
+      "lng": "25.029904945923015",
+      "transfer": "False",
+      "name_en": "Jiangzicui",
+      "line": "5"
+    },
+    "pk": "79",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "亞東醫院站",
+      "lat": "121.45264887598324",
+      "ID": "80",
+      "lng": "24.99858903052846",
+      "transfer": "False",
+      "name_en": "Far eastern hospital",
+      "line": "5"
+    },
+    "pk": "80",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "府中站",
+      "lat": "121.45921891977338",
+      "ID": "81",
+      "lng": "25.00893484807644",
+      "transfer": "False",
+      "name_en": "Fuzhong",
+      "line": "5"
+    },
+    "pk": "81",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "忠孝敦化站",
+      "lat": "121.54965595628107",
+      "ID": "82",
+      "lng": "25.041494804083115",
+      "transfer": "False",
+      "name_en": "Zhongxiao dunhua",
+      "line": "5"
+    },
+    "pk": "82",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "昆陽站",
+      "lat": "121.59302011238663",
+      "ID": "83",
+      "lng": "25.050188659761453",
+      "transfer": "False",
+      "name_en": "Kunyang",
+      "line": "5"
+    },
+    "pk": "83",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "板橋站",
+      "lat": "121.46288178985729",
+      "ID": "84",
+      "lng": "25.014297127517878",
+      "transfer": "False",
+      "name_en": "Banqiao",
+      "line": "5"
+    },
+    "pk": "84",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "南港站",
+      "lat": "121.6076342083477",
+      "ID": "85",
+      "lng": "25.05217838146329",
+      "transfer": "False",
+      "name_en": "Nangang",
+      "line": "5"
+    },
+    "pk": "85",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "後山埤站",
+      "lat": "121.5820040769831",
+      "ID": "86",
+      "lng": "25.044278556768003",
+      "transfer": "False",
+      "name_en": "Houshanpi",
+      "line": "5"
+    },
+    "pk": "86",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "海山站",
+      "lat": "121.44887528615276",
+      "ID": "87",
+      "lng": "24.985548279219014",
+      "transfer": "False",
+      "name_en": "Haishan",
+      "line": "5"
+    },
+    "pk": "87",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "國父紀念館",
+      "lat": "121.55768894926811",
+      "ID": "88",
+      "lng": "25.041347470592353",
+      "transfer": "False",
+      "name_en": "Sun yat-sen memorial hall",
+      "line": "5"
+    },
+    "pk": "88",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "頂埔站",
+      "lat": "121.41888150335016",
+      "ID": "89",
+      "lng": "24.959432696432305",
+      "transfer": "False",
+      "name_en": "Dingpu station",
+      "line": "5"
+    },
+    "pk": "89",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "善導寺站",
+      "lat": "121.52334018858338",
+      "ID": "90",
+      "lng": "25.04481301215877",
+      "transfer": "False",
+      "name_en": "Shandao temple",
+      "line": "5"
+    },
+    "pk": "90",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "新埔站",
+      "lat": "121.46798702828256",
+      "ID": "91",
+      "lng": "25.02299595158213",
+      "transfer": "False",
+      "name_en": "Xinpu",
+      "line": "5"
+    },
+    "pk": "91",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "龍山寺站",
+      "lat": "121.50122086189056",
+      "ID": "92",
+      "lng": "25.035229133641284",
+      "transfer": "False",
+      "name_en": "Longshan temple",
+      "line": "5"
+    },
+    "pk": "92",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "新北投站",
+      "lat": "121.50253117138567",
+      "ID": "93",
+      "lng": "25.136936405056954",
+      "transfer": "False",
+      "name_en": "Xinbeitou",
+      "line": "6"
+    },
+    "pk": "93",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "大安站",
+      "lat": "121.54362610836472",
+      "ID": "94",
+      "lng": "25.032820576211343",
+      "transfer": "True",
+      "name_en": "Daan",
+      "line": "1-2"
+    },
+    "pk": "94",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "南京復興站",
+      "lat": "121.54403933590399",
+      "ID": "95",
+      "lng": "25.052292282573518",
+      "transfer": "True",
+      "name_en": "Nanjing fuxing",
+      "line": "1-3"
+    },
+    "pk": "95",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "忠孝復興站",
+      "lat": "121.54379399916098",
+      "ID": "96",
+      "lng": "25.04160216557183",
+      "transfer": "True",
+      "name_en": "Zhongxiao fuxing",
+      "line": "1-5"
+    },
+    "pk": "96",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "南港展覽館站",
+      "lat": "121.61762249277893",
+      "ID": "97",
+      "lng": "25.05456568231958",
+      "transfer": "True",
+      "name_en": "Taipei nangang exhibition center",
+      "line": "1-5"
+    },
+    "pk": "97",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "中山站",
+      "lat": "121.52039689994831",
+      "ID": "98",
+      "lng": "25.052675667889748",
+      "transfer": "True",
+      "name_en": "Zhongshan",
+      "line": "2-3"
+    },
+    "pk": "98",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "中正紀念堂",
+      "lat": "121.51704931955304",
+      "ID": "99",
+      "lng": "25.03427427333153",
+      "transfer": "True",
+      "name_en": "Chiang kai-shek memorial hall",
+      "line": "2-3"
+    },
+    "pk": "99",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "民權西路站",
+      "lat": "121.51936274027959",
+      "ID": "100",
+      "lng": "25.062876668506888",
+      "transfer": "True",
+      "name_en": "Minquan west road",
+      "line": "2-4"
+    },
+    "pk": "100",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "東門站",
+      "lat": "121.52832177315862",
+      "ID": "101",
+      "lng": "25.033927621306088",
+      "transfer": "True",
+      "name_en": "Dongmen",
+      "line": "2-4"
+    },
+    "pk": "101",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "台北車站",
+      "lat": "121.51743802464559",
+      "ID": "102",
+      "lng": "25.046233086581456",
+      "transfer": "True",
+      "name_en": "Taipei main station",
+      "line": "2-5"
+    },
+    "pk": "102",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "小碧潭站",
+      "lat": "121.53529784254471",
+      "ID": "103",
+      "lng": "24.969554208478705",
+      "transfer": "False",
+      "name_en": "Xiaobitan",
+      "line": "3-1"
+    },
+    "pk": "103",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "古亭站",
+      "lat": "121.52256794084491",
+      "ID": "104",
+      "lng": "25.02688563799633",
+      "transfer": "True",
+      "name_en": "Guting",
+      "line": "3-4"
+    },
+    "pk": "104",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "松江南京站",
+      "lat": "121.53307036475438",
+      "ID": "105",
+      "lng": "25.052409482051708",
+      "transfer": "True",
+      "name_en": "Songjiang nanjing",
+      "line": "3-4"
+    },
+    "pk": "105",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "西門站",
+      "lat": "121.50848773359886",
+      "ID": "106",
+      "lng": "25.042212600226556",
+      "transfer": "True",
+      "name_en": "Ximen",
+      "line": "3-5"
+    },
+    "pk": "106",
+    "model": "public_transit.mrt_station"
+  },
+  {
+    "fields": {
+      "name_cn": "忠孝新生站",
+      "lat": "121.53291875841337",
+      "ID": "107",
+      "lng": "25.04235484423152",
+      "transfer": "True",
+      "name_en": "Zhongxiao xinsheng",
+      "line": "4-5"
+    },
+    "pk": "107",
+    "model": "public_transit.mrt_station"
+  }
+]
