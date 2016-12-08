@@ -14,7 +14,8 @@
     "react": "^15.4.0",
     "react-day-picker": "^3.1.1",
     "react-dom": "^15.4.0",
-    "react-google-charts": "^1.2.1"
+    "react-google-charts": "^1.2.1",
+    "react-rangeslider": "^1.0.9"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",

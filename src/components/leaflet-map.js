@@ -1,12 +1,10 @@
 import React from 'react';
 import L from 'leaflet';
-
 import 'leaflet/dist/leaflet.css';
 import Filter from './Filter';
 import geojson from 'json!../mrt.geojson';
 
 let config = {};
-
 let mrtLineNames = [];
 
 config.params = {
@@ -30,7 +28,6 @@ config.tileLayer = {
     	accessToken: 'pk.eyJ1IjoiZ2VvamVkaSIsImEiOiJjaWpvMDNwYnMwMHRidmFseDRhOGNrZjIwIn0.hkVHv9_Z-PpXfOLrKMlfCQ'
     }
 };
-
 
 export default class LeafletMap extends React.Component {
 	constructor(props) {
@@ -111,31 +108,35 @@ export default class LeafletMap extends React.Component {
 		geojsonLayer.addTo(this.state.map);
 
 		this.setState({ geojsonLayer});
-
-
 	}
 
 	filterGeoJSONLayer() {
 		console.log("filterGeoJSONLayer");
 		this.state.geojsonLayer.clearLayers();
 		this.state.geojsonLayer.addData(geojson);
-		// this.zoomToFeature(this.state.geojsonLayer);
+		this.zoomToFeature(this.state.geojsonLayer);
 	}
 
 	zoomToFeature(target) {
+		 
+		var fitBoundsParams = {
+			paddingTopLeft: [100,10],
+			paddingBottomRight: [10,10]
+		};
 
+		this.state.map.fitBounds(target.getBounds(), fitBoundsParams);
 	}
 
 	filterFeatures(feature, layer) {
-		console.log("filterFeatures");
+
 		const test = feature.properties.line.split('-').indexOf(this.state.mrtLinesFilter);
+
 		if(this.state.mrtLinesFilter === '*' || test !== -1) {
 			return true;
 		}
 	}
 
 	pointToLayer(feature, latlng) {
-		console.log("pointToLayer");
 		var markerParams = {
 			radius: 4,
 			fillColor: 'orange',
@@ -149,7 +150,6 @@ export default class LeafletMap extends React.Component {
 	}
 
 	onEachFeature(feature, layer) {
-		console.log("onEachFeature");
 		if(feature.properties && feature.properties.name && feature.properties.line) {
 			if(mrtLineNames.length < 7) {
 
@@ -178,14 +178,11 @@ export default class LeafletMap extends React.Component {
 
 		const tileLayer = L.tileLayer(config.tileLayer.uri, config.tileLayer.params).addTo(map);
 		this.setState({map, tileLayer});
-
 	}
 
 	render() {
 		console.log('render');
-
 		const { mrtLinesFilter } = this.state;
-
 		return (
 			<div id="mapUI">
 				{
